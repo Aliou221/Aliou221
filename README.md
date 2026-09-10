@@ -196,12 +196,6 @@
 
 <br/><br/>
 
-**🗓️ Mes contributions sur l'année**
-
-<img width="90%" src="https://ghchart.rshah.org/1E90FF/Aliou221" alt="Graphe de contributions"/>
-
-<br/>
-
 <img width="95%" src="https://github-trophies.vercel.app/?username=Aliou221&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Trophées"/>
 
 </div>
