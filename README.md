@@ -11,8 +11,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=900&color=1E90FF&center=true&vCenter=true&width=850&height=60&lines=Salut+%F0%9F%91%8B+moi+c'est+Aliou+Ciss%C3%A9;D%C3%A9veloppeur+Full+Stack+%7C+Laravel+%E2%80%A2+React+%E2%80%A2+Next.js;Je+transforme+vos+id%C3%A9es+en+solutions+digitales.;Code+today%2C+Build+tomorrow+%F0%9F%9A%80" alt="Typing SVG"/>
 
   <p>
-    <img src="https://komarev.com/ghpvc/?username=Aliou221&label=Profile%20Views&color=1E90FF&style=for-the-badge" alt="Profile views"/>
-    <a href="https://github.com/Aliou221?tab=followers"><img src="https://img.shields.io/github/followers/Aliou221?label=Followers&style=for-the-badge&color=1E90FF&labelColor=0D1117" alt="Followers"/></a>
     <img src="https://img.shields.io/badge/Freelance-Disponible-2ECC71?style=for-the-badge&labelColor=0D1117" alt="Freelance disponible"/>
     <img src="https://img.shields.io/badge/Base-S%C3%A9n%C3%A9gal%20%F0%9F%87%B8%F0%9F%87%B3-1E90FF?style=for-the-badge&labelColor=0D1117" alt="Sénégal"/>
   </p>
@@ -181,31 +179,6 @@
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-<!-- ===================== STATS ===================== -->
-## 📊 Mes statistiques GitHub
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats-six-ruby-24.vercel.app/api?username=Aliou221&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=1E90FF&icon_color=1E90FF" alt="Stats"/>
-<img width="41%" src="https://github-readme-stats-six-ruby-24.vercel.app/api/top-langs/?username=Aliou221&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0D1117&title_color=1E90FF" alt="Top langages"/>
-
-<br/><br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=Aliou221&theme=tokyonight&hide_border=true&background=0D1117&ring=1E90FF&fire=1E90FF&currStreakLabel=1E90FF" alt="Streak"/>
-
-<br/><br/>
-
-<img width="95%" src="https://github-trophies.vercel.app/?username=Aliou221&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Trophées"/>
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-<!-- ===================== SNAKE ===================== -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Aliou221/Aliou221/output/snake.svg" alt="Snake animation"/>
-</div>
 
 <!-- ===================== QUOTE ===================== -->
 <div align="center">
