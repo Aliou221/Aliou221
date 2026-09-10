@@ -126,40 +126,48 @@
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3>💇‍♀️ Glam Hair</h3>
+      <p>Site vitrine d'un centre de soins capillaires à Dakar : présentation des services (coiffure, tresses, manucure, pédicure, soins du visage), galerie et prise de rendez-vous.</p>
+      <p><img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/></p>
+      <a href="https://glamhair.vercel.app">Démo live →</a>
+    </td>
+    <td width="50%" valign="top">
       <h3>🎓 AERK-THIES</h3>
       <p>Plateforme académique et communautaire pour l'Amicale des Étudiants Ressortissants de Kaolack à Thiès : forum, dépôt de documents, gestion des membres et des rôles, avec <b>notifications en temps réel</b> (WebSockets).</p>
       <p><img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/> <img src="https://img.shields.io/badge/Laravel_Reverb-FF2D20?style=flat-square&logo=laravel&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/></p>
       <a href="https://alioudev221-v1.vercel.app/projets">Voir le projet →</a>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>💰 GAFA-GUI</h3>
       <p>SaaS de gestion financière pour associations, amicales et clubs : suivi des cotisations, dépenses et rapports financiers automatisés.</p>
       <p><img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/></p>
       <em>Repository privé</em>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>📚 Gestion de Bibliothèque</h3>
       <p>Système complet de gestion de bibliothèque : catalogue, emprunts, retours et administration des adhérents.</p>
       <p><img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/></p>
       <a href="https://github.com/Aliou221/bibliotheque">Voir le code →</a>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🏆 Challenge H24Code</h3>
       <p>Plateforme développée dans le cadre du challenge H24Code — conception, intégration et logique métier sous contrainte de temps.</p>
       <p><img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/></p>
       <a href="https://github.com/Aliou221/h24-code-challenge">Voir le code →</a>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>🌤️ Application Météo</h3>
       <p>Prévisions météo en temps réel par géolocalisation, avec consommation d'API REST et interface thématique adaptative.</p>
       <p><img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/></p>
       <a href="https://app-meteo-lime.vercel.app/">Démo live →</a>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+  <tr>
+    <td width="100%" valign="top" colspan="2">
       <h3>🧑‍💼 Portfolio v1</h3>
       <p>Mon portfolio professionnel : compétences, projets et parcours académique dans une interface moderne et optimisée.</p>
       <p><img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/></p>
