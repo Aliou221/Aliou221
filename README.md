@@ -82,6 +82,7 @@
 | **Langages** | JavaScript · TypeScript · PHP · SQL · Java · Python · Dart · HTML · CSS |
 | **Frontend** | React · Next.js · Angular · Tailwind CSS · Bootstrap |
 | **Backend** | Laravel · PHP · Node.js · API REST |
+| **Temps réel** | Laravel Reverb · WebSockets · Redis |
 | **Mobile** | Flutter |
 | **Bases de données** | MySQL · PostgreSQL · Supabase · Redis |
 | **DevOps & Déploiement** | Git · GitHub Actions · Docker · Vercel |
@@ -126,14 +127,14 @@
   <tr>
     <td width="50%" valign="top">
       <h3>🎓 AERK-THIES</h3>
-      <p>Plateforme académique et communautaire pour l'Amicale des Étudiants Ressortissants de Kaolack à Thiès : forum, dépôt de documents, gestion des membres et des rôles.</p>
-      <p><img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/></p>
+      <p>Plateforme académique et communautaire pour l'Amicale des Étudiants Ressortissants de Kaolack à Thiès : forum, dépôt de documents, gestion des membres et des rôles, avec <b>notifications en temps réel</b> (WebSockets).</p>
+      <p><img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/> <img src="https://img.shields.io/badge/Laravel_Reverb-FF2D20?style=flat-square&logo=laravel&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/></p>
       <a href="https://alioudev221-v1.vercel.app/projets">Voir le projet →</a>
     </td>
     <td width="50%" valign="top">
       <h3>💰 GAFA-GUI</h3>
       <p>SaaS de gestion financière pour associations, amicales et clubs : suivi des cotisations, dépenses et rapports financiers automatisés.</p>
-      <p><img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/></p>
+      <p><img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/></p>
       <em>Repository privé</em>
     </td>
   </tr>
