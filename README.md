@@ -126,9 +126,9 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>💇‍♀️ Glam Hair</h3>
-      <p>Site vitrine d'un centre de soins capillaires à Dakar : présentation des services (coiffure, tresses, manucure, pédicure, soins du visage), galerie et prise de rendez-vous.</p>
-      <p><img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/></p>
+      <h3>💅 Atelier de Beauté</h3>
+      <p>Plateforme de gestion pour instituts de beauté : catalogue de services (coiffure, tresses, manucure, pédicure, soins du visage), galerie, réservation en ligne et espace d'administration.</p>
+      <p><img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/></p>
       <a href="https://glamhair.vercel.app">Démo live →</a>
     </td>
     <td width="50%" valign="top">
