@@ -8,7 +8,7 @@
 <!-- ===================== HEADLINE ===================== -->
 <div align="center">
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=1E90FF&center=true&vCenter=true&width=650&lines=Salut+%F0%9F%91%8B+moi+c'est+Aliou+Ciss%C3%A9;D%C3%A9veloppeur+Full+Stack+%7C+Laravel+%E2%80%A2+React+%E2%80%A2+Next.js;Je+transforme+vos+id%C3%A9es+en+solutions+digitales.;Code+today%2C+Build+tomorrow+%F0%9F%9A%80" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=900&color=1E90FF&center=true&vCenter=true&width=850&height=60&lines=Salut+%F0%9F%91%8B+moi+c'est+Aliou+Ciss%C3%A9;D%C3%A9veloppeur+Full+Stack+%7C+Laravel+%E2%80%A2+React+%E2%80%A2+Next.js;Je+transforme+vos+id%C3%A9es+en+solutions+digitales.;Code+today%2C+Build+tomorrow+%F0%9F%9A%80" alt="Typing SVG"/>
 
   <p>
     <img src="https://komarev.com/ghpvc/?username=Aliou221&label=Profile%20Views&color=1E90FF&style=for-the-badge" alt="Profile views"/>
@@ -126,7 +126,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>💅 Atelier de Beauté</h3>
+      <h3>💅 Glam Hair</h3>
       <p>Plateforme de gestion pour instituts de beauté : catalogue de services (coiffure, tresses, manucure, pédicure, soins du visage), galerie, réservation en ligne et espace d'administration.</p>
       <p><img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/></p>
       <a href="https://glamhair.vercel.app">Démo live →</a>
@@ -156,7 +156,7 @@
     <td width="50%" valign="top">
       <h3>🏆 Challenge H24Code</h3>
       <p>Plateforme développée dans le cadre du challenge H24Code — conception, intégration et logique métier sous contrainte de temps.</p>
-      <p><img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/></p>
+      <p><img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/></p>
       <a href="https://github.com/Aliou221/h24-code-challenge">Voir le code →</a>
     </td>
     <td width="50%" valign="top">
