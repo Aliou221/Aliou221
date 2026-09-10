@@ -29,7 +29,7 @@
 <!-- ===================== A PROPOS ===================== -->
 ## 🧑‍💻 À propos de moi
 
-<img align="right" width="330" src="https://raw.githubusercontent.com/gist/rajput2107/c7cba0a0a53e0a90fa5f7b675eef3e29/raw/0e95c5e3ac83b4ff9755b7ffb9c9a89fbf9c7f78/Handshake.gif" alt="dev"/>
+<img align="right" width="330" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding"/>
 
 🎓 &nbsp;Étudiant en **Licence 3 Informatique – Génie Logiciel** à l'Université Iba Der Thiam de Thiès
 
@@ -187,11 +187,13 @@
 
 <br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aliou221&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=1E90FF&line=1E90FF&point=FFFFFF&area=true" alt="Graphe d'activité"/>
+**🗓️ Mes contributions sur l'année**
+
+<img width="90%" src="https://ghchart.rshah.org/1E90FF/Aliou221" alt="Graphe de contributions"/>
 
 <br/>
 
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=Aliou221&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Trophées"/>
+<img width="95%" src="https://github-trophies.vercel.app/?username=Aliou221&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Trophées"/>
 
 </div>
 
