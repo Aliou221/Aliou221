@@ -178,8 +178,8 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Aliou221&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=1E90FF&icon_color=1E90FF" alt="Stats"/>
-<img width="41%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Aliou221&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0D1117&title_color=1E90FF" alt="Top langages"/>
+<img width="49%" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=Aliou221&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=1E90FF&icon_color=1E90FF" alt="Stats"/>
+<img width="41%" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=Aliou221&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0D1117&title_color=1E90FF" alt="Top langages"/>
 
 <br/><br/>
 
